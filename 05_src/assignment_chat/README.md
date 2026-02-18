@@ -61,7 +61,7 @@ python app.py
 
 
 ## Folder Structure
-
+```
 05_src/assignment_chat/
 ├── 05_src/
 │   └── assignment_chat/
@@ -80,7 +80,7 @@ python app.py
 ├── ingest.py
 ├── README.md
 └── tools.py
-
+```
 
 * agent.py: Contains the LangGraph state compilation, system prompt, and LLM initialization.
 * app.py: The Gradio interface. Run this file to start the chat.
