@@ -78,10 +78,9 @@ python app.py
 │   ├── cocktails.json
 │   └── final_cocktails.csv
 ├── ingest.py
-
-├──README.md
-
+├── README.md
 └── tools.py
+
 
 * agent.py: Contains the LangGraph state compilation, system prompt, and LLM initialization.
 * app.py: The Gradio interface. Run this file to start the chat.
